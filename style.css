@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo&display=swap");
+
+.text-color {
+  color: blue;
+  background-color: black;
+  font-family: "Cairo", sans-serif;
+  text-align: center;
+}
+
+#color {
+  color: blue;
+  font-weight: 600;
+  font-size: 70px;
+}
+
+.center {
+  text-align: center;
+}
